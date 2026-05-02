@@ -12,6 +12,5 @@ const user: {
   lastName: "Mandal",
   isMarried: true,
 };
-
 user.firstName = "Mollika";
 console.log(user);
